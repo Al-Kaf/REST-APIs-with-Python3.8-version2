@@ -1,5 +1,5 @@
 # Stores REST Api
 
-This is bulit with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy
+This is bulit with Flask, Flask-RESTful, Flask-JWT-Extended, and Flask-SQLAlchemy
 
-Deployed on Heroku.
+
